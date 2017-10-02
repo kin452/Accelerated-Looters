@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\enemyTop.cs" />
+    <Compile Include="Assets\scripts\playerController.cs" />
     <None Include="Assets\LibraryFormatVersion.txt" />
     <None Include="Assets\LastSceneManagerSetup.txt" />
     <Reference Include="UnityEngine.CoreModule">
